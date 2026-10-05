@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hattngan1010@gmail.com
+	name = Annie Ha
